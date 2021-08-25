@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/mattoxb/wowchemy-shortcode-awsvideo
 
 go 1.15
